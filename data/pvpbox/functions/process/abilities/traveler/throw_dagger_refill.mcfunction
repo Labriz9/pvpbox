@@ -1,0 +1,3 @@
+
+item replace entity @a[tag=Traveler,nbt={Inventory: [{Slot: 0b, id: "minecraft:carrot_on_a_stick", Count: 1b, tag: {display:{Name:'{"text":"Electric Dagger / Time Jump"}'}}}]}] weapon.offhand with minecraft:carrot_on_a_stick{Unbreakable:1,Enchantments:[{id:"minecraft:sharpness",lvl:12}],display:{Name:'{"text":"Electric Dagger / Throw Dagger"}'},CustomModelData:801}
+item replace entity @a[tag=Traveler,nbt=!{Inventory: [{Slot: 0b, id: "minecraft:carrot_on_a_stick", Count: 1b}]}] hotbar.0 with minecraft:carrot_on_a_stick{Unbreakable:1,Enchantments:[{id:"minecraft:sharpness",lvl:12}],display:{Name:'{"text":"Electric Dagger / Throw Dagger"}'},CustomModelData:801}
